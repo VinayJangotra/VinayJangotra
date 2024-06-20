@@ -1,7 +1,7 @@
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 <h1 align="center">Hi 👋, I'm Vinay Sharma</h1>
 <h3 align="center">MERN Developer | DSA Enthusiast | Open Source Contributor Passionate about building scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). Avid problem solver with a strong interest in Data Structures and Algorithms. Dedicated to contributing to open source projects and continuously learning new technologies.</h3>
-<img align="right" width="400" alt="Coding" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-code-clipart-cartoon-character-working-on-a-computer-with-headphones-vector-png-image_11067088.png">
+<img align="right" width="400" alt="Coding" src="https://as2.ftcdn.net/v2/jpg/05/56/56/05/1000_F_556560542_gpvC3M0fxAb2uSVAldH5VELMaG01vEgd.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayjangotra&label=Profile%20views&color=0e75b6&style=flat" alt="vinayjangotra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayjangotra" alt="vinayjangotra" /></a> </p>
